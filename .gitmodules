@@ -1,0 +1,3 @@
+[submodule "libs/DiffTactile"]
+	path = libs/DiffTactile
+	url = https://github.com/Genesis-Embodied-AI/DiffTactile.git
